@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamadhiMahawela
 - 👀 I’m interested in programming 
-- 🌱 I’m currently an undergraduate at Deakin University, Australia 
+- 🌱 I’m currently an undergraduate at Coventry University, UK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via LinkedIn: @SamadhiMahawela or via instagram: @Samadhi.i_
 - 😄 Pronouns: ...
